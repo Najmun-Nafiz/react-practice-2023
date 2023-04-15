@@ -16,3 +16,12 @@
   text-align: justify;
   text-align: center;
 }
+
+.fontIcon {
+  display: flex;
+}
+
+.icon {
+  font-size: 30px;
+  padding-right: 15px;
+}
